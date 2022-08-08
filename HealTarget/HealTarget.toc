@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: |cFF0070DDBethy|r's HealTarget
+## Notes: Displays the target of your heal on your cast bar. Works only with default cast bar.
+## Author: Bethy
+## Version: 1.1
+
+Const.lua
+Frame.lua
+Core.lua
+SpellList.lua

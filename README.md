@@ -3,13 +3,13 @@
 AddOn author: Bethy  
 AddOn version: 1.1  
 Client version: 3.3.5  
-Credits: Oddbjorg (helped by testing)
+Credits: Oddbjorg (testing)
 
 !!WORKS ONLY WITH DEFAULT CAST BAR!!
 
 ## Installation
 
-Extract into 3.3.5-WoW-folder/Interface/AddOns. Run the game. Enable AddOn in the in-game AddOn menu. (Should be enabled by default for first-time installers.)
+Extract the folder called HealTarget into 3.3.5-WoW-folder\Interface\AddOns. Run the game. Enable AddOn in the in-game AddOn menu. (Should be enabled by default for first-time installers.)
 
 ## What does it do?
 

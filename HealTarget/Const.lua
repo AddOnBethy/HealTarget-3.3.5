@@ -1,0 +1,15 @@
+OFFSET = {
+    TEXTURE_X = 43,
+    TEXTURE_Y = -8
+}
+
+WIDTH = {
+    EDGE_BORDER = 64,
+    TEXTURE = 44
+}
+
+HEIGHT = {
+    MAINFRAME = 48,
+    EDGE_BORDER = 64,
+    TEXTURE = 44
+}
